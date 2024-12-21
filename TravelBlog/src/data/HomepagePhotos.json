@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "path": "/img/homepage.jpg"
+    },
+    {
+        "id": 2,
+        "path": "/img/homepage9.jpg"
+    },
+    {
+        "id": 3,
+        "path": "/img/homepage3.jpg"
+    },
+    {
+        "id": 4,
+        "path": "/img/homepage4.jpg"
+    },
+    {
+        "id": 5,
+        "path": "/img/homepage5.jpg"
+    },
+    {
+        "id": 6,
+        "path": "/img/homepage6.jpg"
+    },
+    {
+        "id": 7,
+        "path": "/img/homepage7.jpg"
+    },
+    {
+        "id": 8,
+        "path": "/img/homepage8.jpg"
+    },
+    {
+        "id": 9,
+        "path": "/img/homepage2.jpg"
+    }
+]

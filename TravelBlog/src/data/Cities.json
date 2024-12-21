@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "arriveDate": "10/03/2017",
+    "departureDate": "17/03/2017",
+    "continent": "Europe",
+    "description": "Amsterdam, the capital of the Netherlands, is a charming city known for its picturesque canals, historic architecture, and vibrant culture. The city is famous for its world-class museums, including the Van Gogh Museum, the Rijksmuseum, and Anne Frank’s House. Amsterdam's iconic canal system, a UNESCO World Heritage site, offers scenic boat tours and peaceful walks. The city's lively neighborhoods, like Jordaan and De Pijp, are filled with trendy cafes, boutique shops, and markets. Known for its open-mindedness, bike-friendly streets, and rich artistic heritage, Amsterdam is a dynamic blend of history, culture, and modern charm.",
+    "latitude": 52.377104,
+    "longitude": 4.898306,
+    "timezone": "Europe/Amsterdam",
+    "zoom": 16,
+    "photos": [
+      "/img/amsterdam1.jpeg",
+      "/img/amsterdam2.jpeg",
+      "/img/amsterdam3.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "country": "Hungary",
+    "city": "Budapest",
+    "arriveDate": "15/03/2018",
+    "departureDate": "29/03/2018",
+    "continent": "Europe",
+    "description": "Budapest, Hungary's capital, is a stunning city split by the Danube River into historic Buda and lively Pest. Known for its thermal baths, like Széchenyi and Gellért, and architectural marvels, including Buda Castle and the Hungarian Parliament, it’s a hub of history and elegance. Visitors can stroll along the Chain Bridge, explore the vibrant ruin bars in the Jewish Quarter, or relax on Margaret Island. Budapest’s unique charm lies in its blend of Ottoman, Gothic, and Art Nouveau influences, paired with a rich culinary scene featuring dishes like goulash. It’s a captivating European destination.",
+    "latitude": 47.497913,
+    "longitude": 19.040236,
+    "timezone": "Europe/Budapest",
+    "zoom": 16,
+    "photos": [
+      "/img/budapest1.jpeg",
+      "/img/budapest2.jpeg",
+      "/img/budapest3.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "country": "Slovenia",
+    "city": "Maribor",
+    "arriveDate": "29/03/2018",
+    "departureDate": "04/04/2018",
+    "continent": "Europe",
+    "description": "Maribor, Slovenia’s second-largest city, is a picturesque destination nestled along the Drava River and surrounded by lush hills and vineyards. Known for its rich wine culture, it’s home to the world’s oldest grapevine, the Žametovka, over 400 years old. The charming Old Town features landmarks like Maribor Castle, the Main Square (Glavni Trg), and the Franciscan Church. Visitors can enjoy nearby Pohorje Mountain for skiing, hiking, and cycling. Maribor’s vibrant festivals, such as the Lent Festival, and its warm hospitality make it a delightful blend of natural beauty and cultural heritage.",
+    "latitude": 46.554649,
+    "longitude": 15.645881,
+    "timezone": "Europe/Ljubljana",
+    "zoom": 16,
+    "photos": [
+      "/img/maribor1.jpeg",
+      "/img/maribor2.jpeg",
+      "/img/maribor3.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "country": "Poland",
+    "city": "Warsaw",
+    "arriveDate": "20/05/2022",
+    "departureDate": "27/05/2022",
+    "continent": "Europe",
+    "description": "Warsaw, Poland’s capital, is a city of resilience and history, blending a vibrant modern spirit with a storied past. Its Old Town, meticulously rebuilt after World War II, is a UNESCO World Heritage Site featuring colorful townhouses and the iconic Royal Castle. Warsaw is a cultural hub, home to landmarks like the Palace of Culture and Science, the Chopin Museum, and the POLIN Museum of Jewish History. The Vistula River adds natural beauty, offering riverside parks and lively nightlife. Known for its rich Polish cuisine and dynamic atmosphere, Warsaw seamlessly combines tradition with contemporary urban life.",
+    "latitude": 52.229675,
+    "longitude": 21.012230,
+    "timezone": "Europe/Warsaw",
+    "zoom": 16,
+    "photos": [
+      "/img/warsaw1.jpeg",
+      "/img/warsaw2.jpeg",
+      "/img/warsaw3.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "country": "Belgium",
+    "city": "Antwerp",
+    "arriveDate": "10/05/2022",
+    "departureDate": "15/05/2022",
+    "continent": "Europe",
+    "description": "Antwerp, Belgium's second-largest city, is a vibrant hub of history, art, and commerce. Known as the 'Diamond Capital of the World,' it’s a center for diamond trade and cutting. The city boasts architectural gems like the Gothic Cathedral of Our Lady and the Renaissance-style Antwerp City Hall. Antwerp’s rich artistic heritage includes connections to Baroque master Peter Paul Rubens, whose works can be seen throughout the city. The bustling port, trendy fashion scene, and culinary delights, from Belgian waffles to fine chocolates, add to its allure. Antwerp blends old-world charm with modern sophistication, making it a captivating destination.",
+    "latitude": 51.219448,
+    "longitude": 4.402464,
+    "timezone": "Europe/Brussels",
+    "zoom": 16,
+    "photos": [
+      "/img/antwerp1.jpeg",
+      "/img/antwerp2.jpeg",
+      "/img/antwerp3.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "country": "Spain",
+    "city": "Madrid",
+    "arriveDate": "01/06/2022",
+    "departureDate": "07/06/2022",
+    "continent": "Europe",
+    "description": "Madrid, the capital of Spain, is a dynamic city renowned for its rich history, world-class art, and vibrant culture. Home to iconic landmarks like the Royal Palace, Puerta del Sol, and Plaza Mayor, it blends historic charm with modern energy. Madrid’s famed art museums, including the Prado and Reina Sofía, showcase masterpieces by artists like Goya and Picasso. The city’s lively neighborhoods, such as Gran Vía and Malasaña, offer diverse dining, shopping, and nightlife. Known for its passion for fútbol and traditional tapas, Madrid embodies Spanish spirit, making it a must-visit European destination.",
+    "latitude": 40.416775,
+    "longitude": -3.703790,
+    "timezone": "Europe/Madrid",
+    "zoom": 16,
+    "photos": [
+      "/img/madrid1.jpeg",
+      "/img/madrid2.jpeg",
+      "/img/madrid3.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "country": "Saint Tome and Principe",
+    "city": "Saint Tome",
+    "arriveDate": "13/04/2023",
+    "departureDate": "20/04/2023",
+    "continent": "Africa",
+    "description": "São Tomé, the capital of São Tomé and Príncipe, is a tranquil city on the largest island of this Central African nation. Known for its colonial Portuguese architecture and lush tropical surroundings, it offers a blend of history, culture, and natural beauty. Visitors can explore vibrant markets, historic landmarks like the São Sebastião Fort, and the National Museum. Nearby, pristine beaches and rainforests provide opportunities for hiking, birdwatching, and snorkeling. São Tomé is also celebrated for its rich culinary traditions, featuring fresh seafood and world-famous cocoa. Its unspoiled charm and relaxed pace make it a unique tropical escape.",
+    "latitude": -0.000777,
+    "longitude": 6.522077,
+    "timezone": "Africa/Sao_Tome",
+    "zoom": 16,
+    "photos": [
+      "/img/sainttome1.jpeg",
+      "/img/sainttome2.jpeg",
+      "/img/sainttome3.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "country": "United States of America",
+    "city": "Miami",
+    "arriveDate": "13/06/2019",
+    "departureDate": "20/06/2019",
+    "continent": "America",
+    "description": "Miami, located in southeastern Florida, is a vibrant city renowned for its stunning beaches, diverse culture, and energetic nightlife. Known as the Magic City, it boasts iconic neighborhoods like South Beach with its Art Deco architecture and Little Havana, a hub of Cuban culture. Miami's multicultural vibe is reflected in its cuisine, blending Latin, Caribbean, and global flavors. The city is also a gateway to the Everglades and Biscayne National Park, offering outdoor adventures. A major center for finance, commerce, and the arts, Miami is home to the bustling Port of Miami and the annual Art Basel festival. Its year-round warm weather, trendy design district, and luxury lifestyle make it a global destination for visitors and residents alike.",
+    "latitude": 25.7741728,
+    "longitude": -80.19362,
+    "timezone": "America/New_York",
+    "zoom": 16,
+    "photos": [
+      "/img/miami1.jpeg",
+      "/img/miami2.jpeg",
+      "/img/miami3.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "country": "Jamaica",
+    "city": "Negril",
+    "arriveDate": "20/06/2019",
+    "departureDate": "27/06/2019",
+    "continent": "America",
+    "description": "Negril, located on Jamaica's western coast, is a laid-back tropical paradise famed for its pristine beaches and dramatic cliffs. Seven Mile Beach, with its soft white sands and turquoise waters, is perfect for relaxation and water activities, while the cliffs of West End offer breathtaking sunsets and adventurous cliff diving. Negril's vibrant reggae culture and delicious Jamaican cuisine add to its charm, creating a welcoming atmosphere. Popular attractions include the iconic Rick’s Café, known for live music and cliffside views, and the nearby coral reefs, ideal for snorkeling and diving. With its warm hospitality and natural beauty, Negril is a must-visit Caribbean destination.",
+    "latitude": 18.2779531,
+    "longitude": -78.3494771,
+    "timezone": "America/Jamaica",
+    "zoom": 16,
+    "photos": [
+      "/img/negril1.jpeg",
+      "/img/negril2.jpeg",
+      "/img/negril3.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "country": "Brazil",
+    "city": "Tibau do Sul",
+    "arriveDate": "15/02/2023",
+    "departureDate": "22/02/2023",
+    "continent": "America",
+    "description": "Tibau do Sul, a charming coastal town in northeastern Brazil, is celebrated for its serene beaches, lush landscapes, and laid-back vibe. Located in Rio Grande do Norte state, it’s a gateway to the famous Pipa Beach, known for its dramatic cliffs, golden sands, and dolphin sightings. The town offers activities like kayaking in the calm waters of Lagoa de Guaraíras and exploring lush Atlantic Forest trails. Tibau do Sul blends rustic charm with vibrant Brazilian culture, featuring local seafood cuisine and a relaxed atmosphere. Perfect for nature lovers and beachgoers, it’s a hidden gem on Brazil’s stunning coastline.",
+    "latitude": -6.184830620452416,
+    "longitude": -35.09002059513658,
+    "timezone": "America/Fortaleza",
+    "zoom": 16,
+    "photos": [
+      "/img/tibaudosul1.jpeg",
+      "/img/tibaudosul2.jpeg",
+      "/img/tibaudosul3.jpeg"
+    ]
+  }
+]

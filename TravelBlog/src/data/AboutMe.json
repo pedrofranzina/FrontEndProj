@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "path": "/img/aboutme.jpg",
+        "description": "Wedding."
+    },
+    {
+        "id": 2,
+        "path": "/img/aboutme2.PNG",
+        "description": "Tibau."
+    },
+    {
+        "id": 3,
+        "path": "/img/aboutme3.PNG",
+        "description": "Zé and Tibau."
+    },
+    {
+        "id": 4,
+        "path": "/img/aboutme4.JPEG",
+        "description": "Algarve."
+    },
+    {
+        "id": 5,
+        "path": "/img/aboutme5.JPEG",
+        "description": "Algarve2."
+    },
+    {
+        "id": 6,
+        "path": "/img/aboutme6.PNG",
+        "description": "Spain."
+    },
+    {
+        "id": 7,
+        "path": "/img/aboutme7.JPEG",
+        "description": "Algarve3"
+    },
+    {
+        "id": 8,
+        "path": "/img/aboutme8.JPEG",
+        "description": "Algarve4"
+    }
+]
